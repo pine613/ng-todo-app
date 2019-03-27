@@ -3,7 +3,7 @@ ng-todo-app
 
 [![Build Status](https://img.shields.io/travis/pine613/ng-todo-app/master.svg?style=flat-square)](https://travis-ci.org/pine613/ng-todo-app)
 [![Dependency Status](https://img.shields.io/david/pine613/ng-todo-app.svg?style=flat-square)](https://david-dm.org/pine613/ng-todo-app)
-[![devDependency Status](https://img.shields.io/david/dev/pine613/ng-todo-app.svg?style=flat-square)](https://david-dm.org/pine613/ng-todo-app#info=devDependencies)
+[![devDependency Status](https://img.shields.io/david/dev/pine613/ng-todo-app.svg?style=flat-square)](https://david-dm.org/pine613/ng-todo-app#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/pine/ng-todo-app.svg)](https://greenkeeper.io/)
 
 This is the todo app that I created to learn AngularJS.
 
